@@ -163,6 +163,9 @@ I have no main focus but JavaScript & PHP is my current.
         <img alt="GIT"
              src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="#">
+        <img alt="Unity"
+             src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white"></a>
+    <a href="#">
         <img alt="Firebase"
              src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
     <a href="#">
@@ -178,7 +181,7 @@ I have no main focus but JavaScript & PHP is my current.
         <img alt="Visual Studio Code"
              src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
     <a href="#">
-        <img alt="Sublime Texxt"
+        <img alt="Sublime Text"
              src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
     <!-- soon
     <a href="#">
@@ -201,10 +204,10 @@ I have no main focus but JavaScript & PHP is my current.
 
 ### 💻 Operating systems
 <p>
-    <a href="#"><img alt="Ubuntu"
-                     src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Windows"
                      src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Ubuntu"
+                     src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 </p>
 
 ## 🔥 Streak stats
@@ -212,6 +215,6 @@ I have no main focus but JavaScript & PHP is my current.
 <!-- GitHub Readme Streak Stats - https://github.com/Anuraaaa/github-readme-streak-stats -->
 <p align="center">
   <a href="#">
-    <img title="🔥 Streak stats" alt="karimcambridge's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuraaaa&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Streak stats" alt="Anuraaaa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuraaaa&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
