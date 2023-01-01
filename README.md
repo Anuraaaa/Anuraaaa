@@ -18,7 +18,7 @@ I have no main focus but JavaScript & PHP is my current.
 
 
 ## 📊 Github stats
-<p>
+<p align="center">
     <a align="center" href="https://github-readme-stats.vercel.app/api?username=Anuraaaa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="Anuraaaa's Github Stats"
                     src="https://github-readme-stats.vercel.app/api?username=Anuraaaa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuraaaa&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
