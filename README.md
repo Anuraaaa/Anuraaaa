@@ -62,6 +62,10 @@ I have no main focus but JavaScript & PHP is my current.
 
 <p>
     <a href="#">
+        <img alt="Laravel"
+             src="https://img.shields.io/badge/Laravel-FF0000?style=for-the-badge&logo=laravel&logoColor=white"/>
+	</a>
+    <a href="#">
         <img alt="React"
              src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 	</a>
