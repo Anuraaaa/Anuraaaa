@@ -100,7 +100,7 @@ I have no main focus but JavaScript & PHP is my current.
   -->
 </p>
 
-### 📦 Package Manager
+### 📦 Package manager
 <p>
     <a href="#">
         <img alt="Composer"
