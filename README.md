@@ -77,10 +77,6 @@ I have no main focus but JavaScript & PHP is my current.
         <img alt="NodeJS"
              src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
     <a href="#">
-        <img alt="NPM"
-             src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
-	</a>
-    <a href="#">
         <img alt="Bootstrap"
              src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 	</a>
@@ -102,6 +98,18 @@ I have no main focus but JavaScript & PHP is my current.
              src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 	</a>
   -->
+</p>
+
+### 📦 Package Manager
+<p>
+    <a href="#">
+        <img alt="Composer"
+             src="https://img.shields.io/badge/composer-FF0000?style=for-the-badge&logo=composer&logoColor=white"/>
+	</a>
+    <a href="#">
+        <img alt="NPM"
+             src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+	</a>
 </p>
 
 ### 🗄️ Databases
