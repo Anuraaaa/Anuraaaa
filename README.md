@@ -2,7 +2,7 @@ Hey, I'm Anura.
 
 I love all things programming & problem solving.
 
-I have no main focus but JavaScript & PHP is my current.
+I have main focus in JavaScript, Go, PHP.
 
 ## 🙋‍♂️ Connect with me
 
@@ -40,6 +40,10 @@ I have no main focus but JavaScript & PHP is my current.
 
 <p>
     <a href="#">
+        <img alt="Golang"
+             src="https://img.shields.io/badge/Go-323330?style=for-the-badge&logo=go&logoColor=#00ADD8" />
+	</a>
+    <a href="#">
         <img alt="JavaScript"
              src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 	</a>
@@ -61,6 +65,9 @@ I have no main focus but JavaScript & PHP is my current.
 ### 🧰 Frameworks and libraries
 
 <p>
+    <a href="#">
+	  <img src="https://shields.io" alt="GoFiber Badge">
+	</a>
     <a href="#">
         <img alt="Laravel"
              src="https://img.shields.io/badge/Laravel-FF0000?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -123,6 +130,10 @@ I have no main focus but JavaScript & PHP is my current.
         <img alt="MySQL"
              src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 	</a>
+    <a href="#">
+        <img alt="PostgreSQL"
+             src="https://img.shields.io/badge/PostgreSQL-00ADD8?style=for-the-badge&logo=postgresql&logoColor=white"/>
+	</a>
   <!-- soon
     <a href="#">
         <img alt="Oracle"
@@ -151,14 +162,14 @@ I have no main focus but JavaScript & PHP is my current.
     <a href="#">
         <img alt="OVH"
              src="https://img.shields.io/badge/OVH_Cloud-00008B?style=for-the-badge&logo=ovh&logoColor=white"/></a>
-    <!-- soon         
-    <a href="#">
-        <img alt="Heroku"
-             src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
     <a href="#">
         <img alt="Netlify"
              src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
     </a>
+    <!-- soon         
+    <a href="#">
+        <img alt="Heroku"
+             src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
     <a href="#">
         <img alt="Digital Ocean"
              src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"></a>
@@ -189,8 +200,8 @@ I have no main focus but JavaScript & PHP is my current.
         <img alt="Visual Studio Code"
              src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
     <a href="#">
-        <img alt="Sublime Text"
-             src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
+        <!-- <img alt="Sublime Text"
+             src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a> -->
     <!-- soon
     <a href="#">
         <img alt="NextJS"
