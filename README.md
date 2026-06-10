@@ -66,9 +66,6 @@ I have main focus in JavaScript, Go, PHP.
 
 <p>
     <a href="#">
-	  <img src="https://shields.io" alt="GoFiber Badge">
-	</a>
-    <a href="#">
         <img alt="Laravel"
              src="https://img.shields.io/badge/Laravel-FF0000?style=for-the-badge&logo=laravel&logoColor=white"/>
 	</a>
